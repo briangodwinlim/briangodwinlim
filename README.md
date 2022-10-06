@@ -10,7 +10,7 @@
 
 [<img align="left" alt="www.brianlim.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.brianlim.xyz/)
 
-[<img align="left" alt="godwin.lim@obf.ateneo.edu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:godwin.lim@obf.ateneo.edu)
+[<img align="left" alt="godwin.lim@obf.ateneo.edu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:brian@brianlim.xyz)
 
 [<img align="left" alt="Brian Godwin Lim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/briangodwinlim/)
 
