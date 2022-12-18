@@ -1,16 +1,17 @@
 ## Hello! I'm Brian Godwin Lim 👋 
 
-### I'm an Applied Mathematics graduate interested in: 
+### My main interests are Applied Mathematics and Mathematical Informatics: 
 
-- 📈 Quantitative Finance and Option Pricing
+- ⚙️ Mathematical Modelling
+- 💡 Decision Diagrams and Graph Theory
 - 💻 Data Science and Machine Learning
-- 💡 Modelling
+- 📈 Mathematical Finance and Econometrics
 
 ### Connect with me:
 
 [<img align="left" alt="www.brianlim.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.brianlim.xyz/)
 
-[<img align="left" alt="godwin.lim@obf.ateneo.edu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:brian@brianlim.xyz)
+[<img align="left" alt="brian@brianlim.xyz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:brian@brianlim.xyz)
 
 [<img align="left" alt="Brian Godwin Lim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/briangodwinlim/)
 
