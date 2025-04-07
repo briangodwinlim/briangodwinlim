@@ -2,7 +2,7 @@
 
 ### My main interests are Applied Mathematics and Mathematical Informatics: 
 
-- ⚙️ Mathematical Modelling
+- ⚙️ Mathematical Modeling
 - 💡 Decision Diagrams and Graph Theory
 - 💻 Data Science and Machine Learning
 - 📈 Mathematical Finance and Econometrics
